@@ -1,5 +1,12 @@
 # 💻🪪 About Me:
-I am a student of Sistem Informasi Kota Cerdas at Politeknik Negeri Indramayu, with a strong interest and focus in frontend web development.<br><br>I’m passionate about building interactive, responsive, and user-centered websites, using technologies such as HTML, CSS, JavaScript, React, and Tailwind CSS.<br><br>As a technology enthusiast, I am eager to continuously learn and contribute to projects that bring real solutions, especially in the development of smart cities and digital innovation.<br><br>Currently, I’m actively involved in both academic and personal projects, developing skills in UI/UX design, web development, and Graphic Designer.
+<h1 align="center">Hi there 👋, I'm Chairul Ikhsan</h1>
+<p align="center">Junior Frontend Web Developer | Mahasiswa Sistem Informasi Kota Cerdas</p>
+<br>
+I am a <b>junior frontend web developer</b> and a student of <b>Sistem Informasi Kota Cerdas</b> at <b>Politeknik Negeri Indramayu</b>.<br><br>
+As a beginner in web development, I’m currently focusing on learning and building <b>interactive, responsive, and user-friendly websites</b>, using technologies like <b>HTML, CSS, JavaScript, React,</b> and <b>Tailwind CSS</b>.<br><br>
+I’m passionate about technology and eager to grow by contributing to real projects, especially in the field of <b>smart cities</b> and <b>digital innovation</b>.<br><br>
+Right now, I’m actively involved in both academic and personal projects to sharpen my skills in <b>UI/UX design, web development, and graphic design</b>.
+
 
 
 # 💻 Tech Stack:
