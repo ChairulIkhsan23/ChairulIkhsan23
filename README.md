@@ -9,9 +9,6 @@ I am a student of Sistem Informasi Kota Cerdas at Politeknik Negeri Indramayu, w
 ![](https://nirzak-streak-stats.vercel.app/?user=ChairulIkhsan23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChairulIkhsan23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChairulIkhsan23&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ChairulIkhsan23&icon=0&color=12)](https://visitcount.itsvg.in)
 
