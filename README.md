@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻🪪 About Me:
 I am a student of Sistem Informasi Kota Cerdas at Politeknik Negeri Indramayu, with a strong interest and focus in frontend web development.<br><br>I’m passionate about building interactive, responsive, and user-centered websites, using technologies such as HTML, CSS, JavaScript, React, and Tailwind CSS.<br><br>As a technology enthusiast, I am eager to continuously learn and contribute to projects that bring real solutions, especially in the development of smart cities and digital innovation.<br><br>Currently, I’m actively involved in both academic and personal projects, developing skills in UI/UX design, web development, and Graphic Designer.
 
 
