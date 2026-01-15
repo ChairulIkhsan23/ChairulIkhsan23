@@ -67,10 +67,10 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 ##### GitHub Statistics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChairulIkhsan23&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChairulIkhsan23&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChairulIkhsan23&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChairulIkhsan23&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChairulIkhsan23&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ChairulIkhsan23&theme=dark&hide_border=true" />
 </p>
