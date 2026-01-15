@@ -14,21 +14,13 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 ##### Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/chairul-ikhsan">
+  <a href="https://linkedin.com/in/chairul-ikhsan-204b0927a">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="mailto:chairul@example.com">
+  <a href="mailto:chairulikhsan23@student.polindra.ac.id">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://github.com/ChairulIkhsan23">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717" />
-  </a>
-  <a href="https://instagram.com/chairul_ikhsan23">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" />
-  </a>
-  <a href="https://twitter.com/ChairulIkhsan23">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-  </a>
+
 </p>
 
 ---
