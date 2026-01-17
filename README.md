@@ -58,8 +58,9 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 
 ##### GitHub Statistics
 
-![Chairul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChairulIkhsan23&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChairulIkhsan23&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChairulIkhsan23&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChairulIkhsan23&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ChairulIkhsan23&theme=tokyonight)>
+![GitHub Streak](https://streak-stats.demolab.com?user=ChairulIkhsan23&theme=github-dark)
+
