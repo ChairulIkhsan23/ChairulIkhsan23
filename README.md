@@ -9,7 +9,6 @@
 Hello, I'm _Chairul Ikhsan_.
 An undergraduate student majoring in Smart City Information Systems at Politeknik Negeri Indramayu, with a strong interest in technology and web-based development, focusing on building efficient, responsive, and user-centered digital applications through academic and personal projects.
 
----
 
 ##### Socials
 
@@ -23,7 +22,6 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 
 </p>
 
----
 
 ##### Techincal Skills
 
@@ -60,5 +58,4 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChairulIkhsan23&layout=compact&theme=algolia"/>
 </a>
 </p>
----
 
