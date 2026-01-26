@@ -56,7 +56,7 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 
 <p align="left">
 <a href="https://github.com/ChairulIkhsan23">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChairulIkhsan23e&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChairulIkhsan23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChairulIkhsan23&layout=compact&theme=algolia"/>
 </a>
 </p>
