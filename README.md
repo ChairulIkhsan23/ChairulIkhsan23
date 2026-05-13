@@ -50,7 +50,7 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ChairulIkhsan23/ChairulIkhsan23/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="left">
