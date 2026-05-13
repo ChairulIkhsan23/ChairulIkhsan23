@@ -23,36 +23,31 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 </p>
 
 
-##### Techincal Skills
+##### Technical Skills
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" alt="Vue.js" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="45" />
+<div align="center">
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="Laravel" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="45" />
+### Frontend
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="45"/> |
+|---|---|---|---|---|---|---|---|
+| **HTML5** | **CSS3** | **JavaScript** | **React** | **Vue.js** | **Tailwind** | **Bootstrap** |
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase" width="45" />
+### Backend
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45"/> |
+|---|---|---|---|
+| **Node.js** | **PHP** | **Laravel** | **Python** |
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="45" />
+### Database
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" width="45"/> |
+|---|---|---|
+| **MySQL** | **PostgreSQL** | **Firebase** |
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VS Code" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" width="45" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="Vercel" width="45" />
+### Tools & DevOps
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="45"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="45"/> |
+|---|---|---|---|---|---|---|
+| **Docker** | **Git** | **GitHub** | **VS Code** | **Vite** | **Vercel** | **Linux** |
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" />
-</p>
+</div>
 
 <p align="left">
 <a href="https://github.com/ChairulIkhsan23">
