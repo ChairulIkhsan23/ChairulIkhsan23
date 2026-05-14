@@ -38,13 +38,14 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-light" />
 </p>
 
+<hr>
+
 ##### Github Statistic
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChairulIkhsan23&theme=github_dark" />
 </p>
 
-<hr>
 
 <p align="left">
 <a href="https://github.com/ChairulIkhsan23">
@@ -53,7 +54,6 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 </a>
 </p>
 
-<hr>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YChairulIkhsan23&style=flat" alt="profile views"/>
 </p>
