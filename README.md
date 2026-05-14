@@ -54,10 +54,6 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YChairulIkhsan23&style=flat" alt="profile views"/>
-</p>
-
 <hr>
 <blockquote>
   <em>Stay hungry, stay foolish.</em><br>
