@@ -33,6 +33,8 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
 
 </div>
 
+##### Github Statistic
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-light" />
 </p>
@@ -41,10 +43,23 @@ An undergraduate student majoring in Smart City Information Systems at Politekni
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChairulIkhsan23&theme=github_dark" />
 </p>
 
+<hr>
+
 <p align="left">
 <a href="https://github.com/ChairulIkhsan23">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChairulIkhsan23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChairulIkhsan23&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+<hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YChairulIkhsan23&style=flat" alt="profile views"/>
+</p>
+
+<hr>
+<blockquote>
+  <em>Stay hungry, stay foolish.</em><br>
+  — Steve Jobs
+</blockquote>
 
